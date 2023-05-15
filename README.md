@@ -8,3 +8,21 @@ Develop a web interface for an energy tool, iGSE, to provide Shangri-La resident
 Initial thoughts about the project are:
 
 HTML and CSS for the front-end design and implementing Bootstrap as my primary CSS framework. Java Springboot for server-side applications and employing MySQL as database management system.
+
+
+# Running
+Steps to run the web application.
+
+1. run the sql code named "ny81" MySql workbench to get your applciation set up.
+2. import the iGSESystems into your spring boot. (if it doesnt work open the folder named Project)
+3. refresh gradle then wait for the process to be complete
+4. refresh project
+5. change the application.properties
+    - only change username, password and the url you wish.
+    - keep in mind after the port is the url database name
+6. once all of this is complete you may use the application at your defined port or at default at
+   http://localhost:8080/
+
+for any assistance or inquiries please do not hesitate to contact ny81@student.le.ac.uk
+
+Kind Regards.
