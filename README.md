@@ -23,6 +23,6 @@ Steps to run the web application.
 6. once all of this is complete you may use the application at your defined port or at default at
    http://localhost:8080/
 
-for any assistance or inquiries please do not hesitate to contact ny81@student.le.ac.uk
+for any assistance or inquiries please do not hesitate to contact afra-beria.baki@edu.rtu.lv or said.naghiyev@edu.rtu.lv
 
 Kind Regards.
